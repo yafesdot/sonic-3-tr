@@ -15,3 +15,7 @@ Sonic 3 Terimce
 
 LoTR referansı bir lakap.
 > Lord of the Donuts - Donutların Efendisi
+
+> Blue Blur - ?
+
+> Longclaw - ?
