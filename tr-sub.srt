@@ -1,10 +1,10 @@
-﻿1
+1
 00:01:05,759 --> 00:01:08,825
 Ah, evet! Donut getirmişsin.
 
 2
 00:01:08,826 --> 00:01:10,729
-Çoktan tüm Boston Cream'i
+Çoktan tüm Boston Cream'i 
 silip süpürdüm.
 
 3
@@ -13,7 +13,7 @@ Kyle!
 
 4
 00:01:18,101 --> 00:01:20,376
-Bu mekan
+Bu mekan 
 tüylerimi ürpertiyor.
 
 5
@@ -65,16 +65,16 @@ Bu bir yarış mı?
 
 16
 00:04:29,763 --> 00:04:31,434
-Alaşağı edileceksin!
+Kaybedeceksin!
 
 17
 00:04:31,435 --> 00:04:33,601
-Kaderimde
-bu ailenin şampiyonu
+Bu ailenin şampiyonu olmak
+ benim kaderimde var,
 
 18
 00:04:33,602 --> 00:04:35,702
-olmak var, kirpi!
+kirpi!
 
 19
 00:04:35,703 --> 00:04:37,066
@@ -134,7 +134,7 @@ Pişt, çocuklar bunu duydunuz mu?
 
 30
 00:04:57,593 --> 00:04:59,055
-Bugün küresel bir felaket yok,
+Bugün küresel bir felaket yok, 
 anlaştık mı?
 
 31
@@ -145,6 +145,356 @@ yapalım.
 32
 00:05:00,629 --> 00:05:02,762
 Anlaşıldı, tamam!
-Mesaj alındı,
-Lord of the Donuts.
+Mesaj alındı, Donutların Efendisi.
+
+33
+00:05:02,763 --> 00:05:05,568
+O hâlde yerlerinizi alın, hazır...
+
+34
+00:05:06,164 --> 00:05:07,229
+başla!
+
+35
+00:05:08,199 --> 00:05:09,769
+Ve elbette en önde,
+
+36
+00:05:09,770 --> 00:05:11,606
+kimseyi şaşırtmayacak şekilde,
+
+37
+00:05:11,607 --> 00:05:13,740
+o mavi bir bulanıklık,
+ kızıl ayakkabılı bir roket,
+
+38
+00:05:13,741 --> 00:05:16,545
+bir ve tek--
+Hadisene, Sonic!
+
+39
+00:05:16,546 --> 00:05:18,845
+Yakala! Hadi!
+
+40
+00:05:19,782 --> 00:05:21,110
+Bu da neyin nesi böyle?
+
+41
+00:05:21,111 --> 00:05:23,079
+Ben de sana farkı koydum, kirpi!
+
+42
+00:05:23,080 --> 00:05:25,246
+Ciddi misiniz?
+Tamam, sizin istediğiniz olsun.
+
+43
+00:05:25,247 --> 00:05:27,084
+Gazı köklemenin zamanı geldi.
+
+44
+00:05:28,285 --> 00:05:30,526
+Bakın! O bir kuş! Hayır, bir uçak!
+
+45
+00:05:30,527 --> 00:05:32,727
+O Kirpi Havayolları!
+
+46
+00:05:46,611 --> 00:05:49,304
+Evet! Başardım! Ben bu yarışın...
+
+47
+00:05:50,846 --> 00:05:52,141
+kaybedeniyim?
+
+48
+00:05:52,142 --> 00:05:54,077
+Bu nasıl mümkün olabilir?
+Ben yarışta asla kaybetmem.
+
+49
+00:05:54,078 --> 00:05:56,178
+Ben de sana farkı koydum, kirpi!
+
+50
+00:05:56,179 --> 00:05:58,950
+Tamam, tamam, anladım dostum.
+Yüzüme vurmana gerek yok.
+
+51
+00:05:58,951 --> 00:06:03,020
+Hadisene, Sonic!
+Yakala! Hadi!
+
+52
+00:06:03,021 --> 00:06:05,528
+Bekle, neler oluyor?
+
+53
+00:06:05,529 --> 00:06:07,960
+Siz neden bu kadar şey gibisiniz...
+
+54
+00:06:09,700 --> 00:06:10,929
+hologram!
+
+55
+00:06:10,930 --> 00:06:12,502
+Bu da demek oluyor ki...
+
+56
+00:06:12,503 --> 00:06:15,769
+Ben hâlâ tüm zamanların 
+yenilgisiz hızlı şampiyonuyum!
+
+57
+00:06:15,770 --> 00:06:17,837
+Evet!
+Ve kutlama sesleri yükselir!
+
+58
+00:06:17,838 --> 00:06:19,642
+Ama sahiden, neler oluyor?
+
+59
+00:06:24,407 --> 00:06:26,648
+Sürpriz!
+
+60
+00:06:26,649 --> 00:06:29,310
+Durun bir saniye, siz...
+...tüm bunlar da neyin nesi böyle?
+
+61
+00:06:29,311 --> 00:06:31,884
+Bugün "Dünya Dünya Günü" mü?
+
+62
+00:06:31,885 --> 00:06:34,887
+Yoksa sadece
+"Dünya Günü" mü?
+
+63
+00:06:34,888 --> 00:06:37,219
+Bugün senin dünyaya
+gelişinin yıldönümü, dostum.
+
+64
+00:06:37,220 --> 00:06:39,188
+Bu senin "Dünya Günün"
+
+65
+00:06:39,189 --> 00:06:41,058
+Yani o yarış
+ sadece bir dikkat dağıtmaydı,
+
+66
+00:06:41,059 --> 00:06:42,730
+bu arada kesinlikle işe yaramadı,
+ama yine de--
+
+67
+00:06:42,731 --> 00:06:43,962
+İyi bir denemeydi--
+
+68
+00:06:43,963 --> 00:06:46,063
+Hepsi bana bir parti
+düzenlemek için miydi?
+
+69
+00:06:46,064 --> 00:06:48,395
+Bugün, sana onurlandırıyoruz, kirpi.
+
+70
+00:06:48,396 --> 00:06:51,640
+Eğer sen olmasaydın hiçbirimiz
+bugün burada olmazdık.
+
+71
+00:06:51,641 --> 00:06:53,301
+Çocuklar haklı, dostum.
+
+72
+00:06:53,302 --> 00:06:54,775
+Biliyorsun, sen bu gezegene
+geldiğinden beri
+
+73
+00:06:54,776 --> 00:06:56,546
+hepimizin hayatı kökünden değişti.
+
+74
+00:06:56,547 --> 00:06:57,844
+Sayende bir aile olduk.
+
+75
+00:06:57,844 --> 00:06:59,616
+İnsanlarımı çaldın!
+
+76
+00:06:59,616 --> 00:07:03,179
+Size cidden...
+cidden nasıl teşekkür etsem bilmiyorum.
+
+77
+00:07:03,180 --> 00:07:06,787
+Ama şunu diyebilirim: Hadi partileyelim!
+
+78
+00:07:06,788 --> 00:07:08,855
+Evet!
+Hadi!
+
+79
+00:07:08,856 --> 00:07:11,892
+Şimdiden gün batana kadar!
+Toga! Toga!
+
+80
+00:07:14,963 --> 00:07:17,930
+Sürpriz parti için teşekkürler.
+Benim için cidden anlamı büyük.
+
+81
+00:07:17,931 --> 00:07:19,801
+Ah, sen bunu hak ettin, dostum.
+
+82
+00:07:20,870 --> 00:07:23,398
+Yok artık. Bu...
+
+83
+00:07:24,401 --> 00:07:26,235
+Ne? [bıkkınca] Dostum...
+
+84
+00:07:26,236 --> 00:07:28,403
+Bir kerecik olsun
+benim hızımda hareket edemez misin?
+
+85
+00:07:33,443 --> 00:07:34,947
+Vov.
+
+86
+00:07:34,948 --> 00:07:36,718
+Sonic!
+
+87
+00:07:36,719 --> 00:07:39,523
+Burası senin--
+Evet. Benim eski yuvam.
+
+88
+00:07:39,524 --> 00:07:42,955
+Ah, dostum.
+ Onca yıl burada yaşadığına inanamıyorum...
+
+89
+00:07:42,956 --> 00:07:46,421
+Hey! Bu benim son teknoloji
+güvenlik sistemim!
+
+90
+00:07:48,225 --> 00:07:50,259
+İlk günkü gibi.
+
+91
+00:07:50,260 --> 00:07:51,899
+Hey, dostum.
+
+92
+00:07:53,199 --> 00:07:54,429
+Bu da ne?
+
+93
+00:07:57,236 --> 00:08:01,237
+Dünyadaki ilk günümdü.
+
+94
+00:08:01,238 --> 00:08:03,306
+Ben de nereden geldiğimi
+asla unutmamak istedim.
+
+95
+00:08:05,552 --> 00:08:06,914
+Onu hâlâ özlüyorum.
+
+96
+00:08:08,280 --> 00:08:10,621
+Uzunpençe sence 
+benimle gurur duyar mıydı?
+
+97
+00:08:11,514 --> 00:08:13,381
+Eminim duyardı, evlat.
+
+98
+00:08:13,382 --> 00:08:16,593
+Çünkü her ne kadar onu küçük 
+bir yaşta kaybetmiş olsan da,
+
+99
+00:08:16,594 --> 00:08:19,828
+asla acının senin kim olduğunu 
+değiştirmesine izin vermedin...
+
+100
+00:08:20,666 --> 00:08:21,698
+Tam şuranda.
+
+101
+00:08:23,636 --> 00:08:25,460
+Evet, ciğerlerimde.
+
+102
+00:08:27,002 --> 00:08:28,869
+Ya da kalbinde.
+Evet, evet kalbimde.
+
+103
+00:08:28,870 --> 00:08:30,640
+Kesinlikle daha anlamlı.
+Ciğerlerde değil, kalpte.
+
+104
+00:08:30,641 --> 00:08:32,169
+Hayat seçimlerden ibarettir
+ Sonic,
+
+105
+00:08:32,170 --> 00:08:35,073
+tamamen kendi seçimlerimizden
+ibarettir.
+
+106
+00:08:35,074 --> 00:08:36,679
+İyi kararlar alacaksın,
+ doğru şeyler yapacaksın;
+
+107
+00:08:36,680 --> 00:08:39,341
+tabii seni tanıyorsam,
+bazı kötü kararlar da alacaksın.
+
+108
+00:08:39,342 --> 00:08:40,376
+Ama...
+
+109
+00:08:41,819 --> 00:08:44,511
+kalbinden geleni dinlediğin sürece,
+
+110
+00:08:44,512 --> 00:08:46,986
+En gerekli olduğu zaman
+verilebilecek en doğru kararı vereceksin.
+
+111
+00:08:46,987 --> 00:08:48,658
+Teşekkürler.
 
