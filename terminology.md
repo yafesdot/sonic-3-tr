@@ -19,3 +19,5 @@ LoTR referansı bir lakap.
 > Blue Blur - ?
 
 > Longclaw - ?
+
+> Chao Garden - ?
