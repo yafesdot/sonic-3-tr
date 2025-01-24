@@ -4,7 +4,7 @@ Ah, evet! Donut getirmişsin.
 
 2
 00:01:08,826 --> 00:01:10,729
-Çoktan tüm Boston Cream'i 
+Çoktan tüm Boston Cream'i
 silip süpürdüm.
 
 3
@@ -13,7 +13,7 @@ Kyle!
 
 4
 00:01:18,101 --> 00:01:20,376
-Bu mekan 
+Bu mekan
 tüylerimi ürpertiyor.
 
 5
@@ -70,7 +70,7 @@ Kaybedeceksin!
 17
 00:04:31,435 --> 00:04:33,601
 Bu ailenin şampiyonu olmak
- benim kaderimde var,
+benim kaderimde var,
 
 18
 00:04:33,602 --> 00:04:35,702
@@ -134,7 +134,7 @@ Pişt, çocuklar bunu duydunuz mu?
 
 30
 00:04:57,593 --> 00:04:59,055
-Bugün küresel bir felaket yok, 
+Bugün küresel bir felaket yok,
 anlaştık mı?
 
 31
@@ -166,7 +166,7 @@ kimseyi şaşırtmayacak şekilde,
 37
 00:05:11,607 --> 00:05:13,740
 o mavi bir bulanıklık,
- kızıl ayakkabılı bir roket,
+kızıl ayakkabılı bir roket,
 
 38
 00:05:13,741 --> 00:05:16,545
@@ -247,7 +247,7 @@ Bu da demek oluyor ki...
 
 56
 00:06:12,503 --> 00:06:15,769
-Ben hâlâ tüm zamanların 
+Ben hâlâ tüm zamanların
 yenilgisiz hızlı şampiyonuyum!
 
 57
@@ -289,7 +289,7 @@ Bu senin "Dünya Günün"
 65
 00:06:39,189 --> 00:06:41,058
 Yani o yarış
- sadece bir dikkat dağıtmaydı,
+sadece bir dikkat dağıtmaydı,
 
 66
 00:06:41,059 --> 00:06:42,730
@@ -392,7 +392,7 @@ Evet. Benim eski yuvam.
 88
 00:07:39,524 --> 00:07:42,955
 Ah, dostum.
- Onca yıl burada yaşadığına inanamıyorum...
+Onca yıl burada yaşadığına inanamıyorum...
 
 89
 00:07:42,956 --> 00:07:46,421
@@ -426,7 +426,7 @@ Onu hâlâ özlüyorum.
 
 96
 00:08:08,280 --> 00:08:10,621
-Uzunpençe sence 
+Uzunpençe sence
 benimle gurur duyar mıydı?
 
 97
@@ -435,12 +435,12 @@ Eminim duyardı, evlat.
 
 98
 00:08:13,382 --> 00:08:16,593
-Çünkü her ne kadar onu küçük 
+Çünkü her ne kadar onu küçük
 bir yaşta kaybetmiş olsan da,
 
 99
 00:08:16,594 --> 00:08:19,828
-asla acının senin kim olduğunu 
+asla acının senin kim olduğunu
 değiştirmesine izin vermedin...
 
 100
@@ -464,7 +464,7 @@ Ciğerlerde değil, kalpte.
 104
 00:08:30,641 --> 00:08:32,169
 Hayat seçimlerden ibarettir
- Sonic,
+Sonic,
 
 105
 00:08:32,170 --> 00:08:35,073
@@ -474,7 +474,7 @@ ibarettir.
 106
 00:08:35,074 --> 00:08:36,679
 İyi kararlar alacaksın,
- doğru şeyler yapacaksın;
+doğru şeyler yapacaksın;
 
 107
 00:08:36,680 --> 00:08:39,341
@@ -497,4 +497,654 @@ verilebilecek en doğru kararı vereceksin.
 111
 00:08:46,987 --> 00:08:48,658
 Teşekkürler.
+
+112
+00:08:48,659 --> 00:08:50,517
+Sensiz ne yapardım bilmiyorum.
+
+113
+00:08:50,518 --> 00:08:53,829
+<i>Muhtemelen bambaşka bir kirpi olurdum.</i>
+
+114
+00:09:05,502 --> 00:09:07,072
+2024?
+
+115
+00:09:07,073 --> 00:09:10,549
+50 yıldır mahsur muydum?
+
+116
+00:09:14,443 --> 00:09:16,511
+Hareketlenin!
+Pozisyon alın!
+
+117
+00:09:18,986 --> 00:09:20,416
+Derhal yere yat!
+
+118
+00:09:21,760 --> 00:09:23,386
+Etrafın sarılı!
+
+119
+00:09:24,587 --> 00:09:28,665
+Neden beni yalnız bırakmıyorsunuz?
+
+120
+00:09:28,666 --> 00:09:29,568
+İndirin şunu!
+
+121
+00:09:34,234 --> 00:09:37,201
+Marshmellow'a ihanet ettim.
+
+122
+00:09:37,202 --> 00:09:40,941
+Aslında sadece sıcaklık ve uzaklığı 
+ayarlaman gereken bir problemden ibaret.
+
+123
+00:09:40,942 --> 00:09:42,779
+Bu bir yarışma değil.
+
+124
+00:09:44,750 --> 00:09:45,781
+Cidden çok güzel.
+
+125
+00:09:45,782 --> 00:09:48,410
+Huzur.
+Sessizlik.
+
+126
+00:09:48,411 --> 00:09:49,621
+Sonunda.
+
+127
+00:09:50,217 --> 00:09:51,513
+Sonunda!
+
+128
+00:10:01,899 --> 00:10:05,494
+Hey! Burada biraz aile zamanı geçirmeye çalışıyoruz!
+
+129
+00:10:18,278 --> 00:10:20,783
+Ne yaptık?
+Ya da onlar ne yaptılar?
+
+130
+00:10:20,784 --> 00:10:22,081
+Ne yaptınız?
+
+131
+00:10:22,082 --> 00:10:23,688
+Bilmem ki.
+Bir sürü şey yapıyorum.
+
+132
+00:10:29,586 --> 00:10:31,487
+Bay ve Bayan Wachowski.
+
+133
+00:10:32,622 --> 00:10:33,664
+Uzaylılar.
+
+134
+00:10:33,665 --> 00:10:35,798
+"Uzaylılar" derken? Kusura bakma?
+
+135
+00:10:35,799 --> 00:10:37,360
+Sanki başka gezegenlerden gelen--
+
+136
+00:10:37,361 --> 00:10:39,494
+Tamam, haklıymışsın.
+ Sanırım gerçekten uzaylıyız.
+
+137
+00:10:39,495 --> 00:10:40,737
+Lütfen devam et.
+
+138
+00:10:40,738 --> 00:10:41,969
+Ben Müdür Rockwell.
+
+139
+00:10:41,970 --> 00:10:43,498
+Tokyo'da şu an yaşanmakta olan
+
+140
+00:10:43,499 --> 00:10:45,907
+çok tehlikeli bir olay var.
+
+141
+00:10:45,908 --> 00:10:50,109
+Komutan Walters
+Sonic Ekibi'nin acil yardımını talep ediyor.
+
+142
+00:10:50,110 --> 00:10:52,782
+"Sonic Ekibi" derken?
+Bu ismi kim seçti?
+
+143
+00:10:52,783 --> 00:10:55,114
+Bayıldım!
+On numara beş yıldız.
+
+144
+00:10:55,115 --> 00:10:57,578
+Tom ve Maddie,
+tatlıları dolaba kaldırın
+
+145
+00:10:57,579 --> 00:11:01,418
+çünkü Sonic Ekibi günü kurtarmaya gidiyor!
+
+146
+00:11:08,196 --> 00:11:09,766
+Unutma,
+
+147
+00:11:09,767 --> 00:11:12,363
+hayatta doğru kararlar vermelisin!
+
+148
+00:11:25,818 --> 00:11:28,983
+İyi akşamlar ve 
+Tails Uçuşu Numara 1012'ye hoş geldiniz.
+
+149
+00:11:28,984 --> 00:11:31,953
+Şu an dışarıda tam zamanında Tokyo'ya
+ vardığımızı görüyorsunuz.
+
+150
+00:11:31,954 --> 00:11:34,252
+Hay hay, Kaptan, firari vahşi bir uzaylıyı aramaktayız.
+
+151
+00:11:34,253 --> 00:11:35,859
+Onu nasıl bulacağız?
+
+152
+00:11:38,061 --> 00:11:40,192
+Ah, belki şu
+dev yanan toptan başlayabiliriz?
+
+153
+00:11:40,193 --> 00:11:42,657
+Mükemmel fikir! Hadi
+dev yanan toptan başlayalım.
+
+154
+00:11:45,330 --> 00:11:48,167
+Sonunda, biraz aksiyon!
+
+155
+00:11:48,168 --> 00:11:50,202
+Tamam, teçhizatlanma zamanı.
+
+156
+00:11:50,203 --> 00:11:54,041
+Titanyum kelepçeler,
+asla kırılmazlar.
+
+157
+00:11:54,042 --> 00:11:56,208
+Senin gülünç zımbırtılarına 
+ihtiyacım yok, tilki.
+
+158
+00:11:56,209 --> 00:11:58,309
+Peki neden biliyor musun?
+Çünkü ben...
+
+159
+00:11:58,310 --> 00:12:00,245
+...yüzde bir milyon kasım.
+
+160
+00:12:00,246 --> 00:12:02,511
+Evet, güzel.
+Dinliyorsunuz.
+
+161
+00:12:02,512 --> 00:12:04,788
+İnilecek yere vardık.
+
+162
+00:12:04,789 --> 00:12:07,319
+Hadi bakalım, başlıyoruz.
+Gösteri zamanı!
+
+163
+00:12:09,862 --> 00:12:11,828
+Şimdi, bakın, aradığımız şeyin
+ Godzilla mı
+
+164
+00:12:11,829 --> 00:12:13,027
+yoksa Hello Kitty mi olduğunu bilmiyoruz...
+
+165
+00:12:13,028 --> 00:12:14,765
+...yine de birlikte olduğumuz sürece,
+
+166
+00:12:14,766 --> 00:12:16,657
+bizi durdurabilecek hiçbir şey yok.
+
+167
+00:12:16,658 --> 00:12:18,527
+"Sonic Ekibi" üç deyince.
+
+168
+00:12:18,528 --> 00:12:21,167
+Bir, iki, üç.
+
+169
+00:12:21,168 --> 00:12:22,564
+...
+
+170
+00:12:22,565 --> 00:12:24,005
+Sonic Ekibi!
+Knuckles Ekibi!
+
+171
+00:12:26,041 --> 00:12:29,703
+Düşük bütçeli sıkıcı bir uçuş.
+Ne film ne de yemek var.
+
+172
+00:12:29,704 --> 00:12:31,474
+Biz kaçar!
+
+173
+00:12:54,465 --> 00:12:56,697
+Burada ne olmuş böyle?
+
+174
+00:12:56,698 --> 00:12:58,765
+Görünüşe göre GUN'ın
+kıçı tekmelenmiş.
+
+175
+00:12:58,766 --> 00:13:01,273
+Gözünüzü dört açın.
+Tails, herhangi bir şey var mı?
+
+176
+00:13:01,274 --> 00:13:03,979
+Vov! Bu enerji değerleri
+ölçebildiğimin ötesinde!
+
+177
+00:13:05,883 --> 00:13:07,984
+Dikkat et!
+
+178
+00:13:09,284 --> 00:13:12,648
+Yüzde... Bir...
+Milyon.
+
+179
+00:13:25,795 --> 00:13:28,465
+Vov! Çocuklar bunu görüyor musunuz?
+
+180
+00:13:28,466 --> 00:13:31,237
+Aynı sana benziyor.
+Mümkün değil!
+
+181
+00:13:31,238 --> 00:13:33,074
+Çok renkli bir ekipmişsiniz.
+
+182
+00:13:33,075 --> 00:13:36,605
+Umm, kusura bakma.
+Neden bana benziyorsun?
+
+183
+00:13:36,606 --> 00:13:38,178
+Ben sana benzemiyorum.
+
+184
+00:13:38,179 --> 00:13:41,148
+Bana benziyorsun!
+Neden bana benziyorsun?
+
+185
+00:13:41,149 --> 00:13:45,086
+Tamam ne yapacağım biliyor musun?
+Sana sorular soracağım,
+yeni kirpi!
+
+186
+00:13:45,087 --> 00:13:47,253
+Kimsin sen?
+Neden bana benziyorsun?
+
+187
+00:13:47,254 --> 00:13:49,255
+Bu cidden zaman israfı.
+
+188
+00:13:49,256 --> 00:13:52,027
+Canın yanmadan,
+çekip git.
+
+189
+00:13:52,028 --> 00:13:53,689
+Vov, vov, yavaş ol, ahbap.
+
+190
+00:13:54,900 --> 00:13:56,820
+Seninle dövüşmek istemiyoruz.
+
+191
+00:13:56,824 --> 00:13:59,727
+Aslına bakarsan, Sonic,
+ben dövüşmek istiyorum.
+
+192
+00:13:59,728 --> 00:14:01,333
+Şimdi olmaz.
+
+193
+00:14:01,334 --> 00:14:03,269
+Neden bir anlığına bize 
+araba fırlatmayı bırakıp
+
+194
+00:14:03,270 --> 00:14:04,831
+yanımıza gelip konuşmuyorsun?
+
+195
+00:14:04,832 --> 00:14:07,603
+Bir GUN helikopterinden
+atladın.
+
+196
+00:14:07,604 --> 00:14:09,770
+Seninle konuşacak hiçbir şeyim yok.
+
+197
+00:14:09,771 --> 00:14:11,805
+Tamam o zaman, yeter!
+
+198
+00:14:11,806 --> 00:14:13,180
+Knuckles, hayır!
+
+199
+00:14:13,181 --> 00:14:15,854
+Bırak da yumruklarımız konuşsun!
+
+200
+00:14:30,662 --> 00:14:31,902
+Knuckles!
+
+201
+00:14:31,903 --> 00:14:34,300
+Knuckles!
+Knuckles, iyi misin?
+
+202
+00:14:34,301 --> 00:14:35,566
+Hayır, pek sayılmaz. AHH!
+
+203
+00:14:38,142 --> 00:14:39,800
+Kim bu eleman?
+
+204
+00:14:39,801 --> 00:14:41,142
+Kesinlikle bundan önce 
+dövüştüğüm kirpiden
+
+205
+00:14:41,143 --> 00:14:43,144
+çok daha etkileyici.
+
+206
+00:14:43,145 --> 00:14:45,377
+Hadi ama,
+Yanıbaşında duruyorum.
+
+207
+00:14:45,378 --> 00:14:48,985
+Ciddileşelim bakalım!
+Üçümüzü birlikte alamaz.
+
+208
+00:14:48,986 --> 00:14:50,921
+Ov!
+
+209
+00:14:58,822 --> 00:15:01,525
+Tamam,
+hepimizi birden alabilirmiş.
+
+210
+00:15:01,526 --> 00:15:02,658
+Acınası.
+
+211
+00:15:06,401 --> 00:15:08,202
+Benim peşimden gelmeye çalışma.
+
+212
+00:15:11,868 --> 00:15:14,109
+Sonic, o bakışı biliyorum.
+
+213
+00:15:14,110 --> 00:15:16,144
+Onun peşinden gitmek
+kötü bir fikir.
+
+214
+00:15:16,145 --> 00:15:18,444
+Peki bu ne zaman beni durdurdu?
+
+215
+00:15:22,021 --> 00:15:24,416
+Şunu sormam lazım, iki kirpi arasında,
+
+216
+00:15:24,417 --> 00:15:25,681
+saçını kime yaptırıyorsun?
+
+217
+00:15:34,297 --> 00:15:37,760
+Hey! Trafikte tehlikeli hamleler 
+yapmak benim işim!
+
+218
+00:15:44,307 --> 00:15:45,768
+Arasindan geçiyorum!
+
+219
+00:15:49,510 --> 00:15:52,378
+Neden kaçıyorsun?
+Daha yeni başlıyorduk.
+
+220
+00:15:54,416 --> 00:15:55,876
+Sen konuştukça,
+
+221
+00:15:55,877 --> 00:15:57,747
+sana vurasım
+daha da artıyor.
+
+222
+00:16:01,421 --> 00:16:02,818
+Dikkat et!
+
+223
+00:16:04,261 --> 00:16:06,261
+Ugh, sanırım kusacğaım!
+
+224
+00:16:08,395 --> 00:16:10,661
+Evet, voa,
+vov, vov, voa!
+
+225
+00:16:13,105 --> 00:16:14,269
+Yah!
+
+226
+00:16:51,308 --> 00:16:55,309
+1.21 gigawatt.
+
+227
+00:16:58,777 --> 00:17:01,051
+Ah, benimle dalga geçiyor olmalısın!
+
+228
+00:17:01,052 --> 00:17:01,975
+Sonic!
+
+229
+00:17:01,976 --> 00:17:03,317
+İyi misin?
+
+230
+00:17:03,318 --> 00:17:05,385
+İyiyim, çocuklar.
+Ve siz sormadan söyleyeyim,
+
+231
+00:17:05,386 --> 00:17:07,453
+kendimi tamamen 
+taktiksel sebeplerden kelepçeledim.
+
+232
+00:17:07,454 --> 00:17:09,356
+Ne yazik ki açıklamaya
+zamanım yok.
+
+233
+00:17:09,357 --> 00:17:11,424
+Tek başına gitmemeliydin.
+
+234
+00:17:11,425 --> 00:17:13,228
+Bir ekip olarak çalışmamız lazımdı.
+
+235
+00:17:13,229 --> 00:17:15,692
+Üzgünüm, dostum.
+Hâlâ ekip çalışması işini çözmeye çalışıyorum.
+
+236
+00:17:15,693 --> 00:17:17,331
+Peki şimdi ne yapacağız?
+
+237
+00:17:17,332 --> 00:17:19,696
+Kesinlikle daha fazla 
+helikopterden atlamaca yok.
+
+238
+00:17:19,697 --> 00:17:21,863
+En azından GUN'dan 
+sorularımıza cevap alana kadar.
+
+239
+00:17:21,864 --> 00:17:23,536
+Tekrar toplanabileceğimiz 
+bir yere ihtiyacımız var.
+
+240
+00:17:25,034 --> 00:17:26,967
+Tam bunun için bir yer biliyorum.
+
+241
+00:17:37,387 --> 00:17:39,254
+<i>Hai, chiizu.</i>
+
+242
+00:17:39,255 --> 00:17:40,684
+Hain pusuya düştük!
+
+243
+00:17:40,685 --> 00:17:42,851
+Bizi asla canlı ele 
+geçiremeyeceksiniz, iğrenç yaratıklar!
+
+244
+00:17:42,852 --> 00:17:45,359
+Sakin ol, Knuckles.
+Burası bir Chao Bahçesi.
+
+245
+00:17:45,360 --> 00:17:48,659
+Tokyo'da en görülesi
+ 10 yerden biri!
+
+246
+00:17:48,660 --> 00:17:50,727
+Araya kaynamamız için
+muazzam bir yer.
+
+247
+00:17:50,728 --> 00:17:52,564
+Sen Dedektif Pikachu musun?
+
+248
+00:17:52,565 --> 00:17:54,170
+Evet öyle!
+
+249
+00:17:54,171 --> 00:17:57,338
+Cidden bir
+Pokémon'a benziyor.
+
+250
+00:17:57,339 --> 00:17:58,471
+"Pika, pika!"
+
+251
+00:17:58,472 --> 00:18:00,407
+Komutan Walters!
+
+252
+00:18:00,408 --> 00:18:02,343
+Sonic.
+
+253
+00:18:02,344 --> 00:18:05,247
+Tanrıya şükürler olsun hepiniz iyisiniz.
+Eminim sorularınız vardır.
+
+254
+00:18:05,248 --> 00:18:08,184
+Sadece bir sorumuz var
+kırmızı siyah bir soru.
+
+255
+00:18:08,185 --> 00:18:09,713
+Kim bu eleman?
+
+256
+00:18:09,714 --> 00:18:12,584
+Shadow'un hikayesi de
+aynı seninki gibi başladı, Sonic.
+
+257
+00:18:12,585 --> 00:18:15,554
+Ama senin aile ve arkadaşlar
+edindiğin bu gezegende,
+
+258
+00:18:15,555 --> 00:18:19,130
+Shadow kayıplar yaşayıp acı çekti.
 
