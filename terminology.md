@@ -29,3 +29,6 @@ Böyle olur gibi hissettim.
 
 Değiştirebilirim.
 > Echidna - Ekidna
+
+Çok doğrudan oldu.
+> Eclipse Cannon - Tutulma Topu
