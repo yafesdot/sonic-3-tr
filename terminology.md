@@ -26,3 +26,6 @@ Chao Bahçesi.
 
 Böyle olur gibi hissettim.
 > Goat Milker - Keçi Sütü Adam
+
+Değiştirebilirim.
+> Echidna - Ekidna
