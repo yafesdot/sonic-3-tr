@@ -14,10 +14,15 @@ Sonic 3 Terimce
 > Donut - Donut
 
 LoTR referansı bir lakap.
-> Lord of the Donuts - Donutların Efendisi
+> Donut Lord/Lord of the Donuts - Donutların Efendisi
 
 > Blue Blur - ?
 
-> Longclaw - ?
+Lokalizasyona saygı.
+> Longclaw - Uzunpençe
 
-> Chao Garden - ?
+Chao Bahçesi.
+> Chao Garden - Chao Bahçesi
+
+Böyle olur gibi hissettim.
+> Goat Milker - Keçi Sütü Adam
