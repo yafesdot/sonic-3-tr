@@ -8,7 +8,7 @@ Bu altyazı Yafes(yafesdot) tarafından yapılmıştır.
 
 3
 00:01:05,759 --> 00:01:08,825
-Bakıyorum da! Donut almışsın.
+Bakıyorum da donut almışsın.
 
 4
 00:01:08,826 --> 00:01:10,729
