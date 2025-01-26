@@ -1,6 +1,7 @@
-1
+﻿1
 00:00:00,000 --> 00:00:21,470
-Bu altyazı Yafes(yafesdot) tarafından yapılmıştır. \NSon kontrol ve düzenlemeler için STHMZ'ye teşekkürler.
+Bu altyazı Yafes(yafesdot) tarafından yapılmıştır. 
+Son kontrol ve düzenlemeler için STHMZ'ye teşekkürler.
 
 2
 00:00:21,470 --> 00:00:37,000
@@ -78,8 +79,8 @@ Kaybedeceksin!
 
 19
 00:04:31,435 --> 00:04:33,601
-Bu ailenin şampiyonu olmak
-benim kaderimde var,
+Ailenin şampiyonu tahtına 
+oturmak benim kaderim,
 
 20
 00:04:33,602 --> 00:04:35,702
@@ -1220,7 +1221,7 @@ suçlu bulundu ve hapisi boyladı.</i>
 
 274
 00:19:07,409 --> 00:19:10,478
-<i>...Shadow kimsenin ne yapacağını bilemediği 
+<i>...Shadow kimsenin ne yapacağını bilemediği
 bir sorun hâline geldi.</i>
 
 275
@@ -1383,7 +1384,7 @@ Sen kim oluyorsun?
 
 311
 00:22:41,623 --> 00:22:44,086
-"iNaNAmıYoRUM, KeÇi sÜtü aDaM!"
+"iNaNAmıYoRUM, KeÇi sÜtLü aDaM!"
 
 312
 00:22:44,087 --> 00:22:46,286
@@ -1577,7 +1578,7 @@ Benim tatlı mekanik yavrularım!
 
 355
 00:25:17,339 --> 00:25:21,144
-Bu keyif kaçıran 
+Bu keyif kaçıran
 çetenin aradığı kişi
 
 356
@@ -2032,7 +2033,7 @@ korkutamaz.
 
 460
 00:35:03,397 --> 00:35:06,025
-Ee, evet. 
+Ee, evet.
 Geçen film gecesinde ne olduğunu hatırlıyor musun?
 
 461
@@ -3161,7 +3162,7 @@ Enerji kalkanları tarafından yakıldın.
 
 721
 00:50:15,176 --> 00:50:18,970
-Bunu kapatmamız için, 
+Bunu kapatmamız için,
 sunucu odalarına bir USB yerleştirmemiz gerekiyor;
 
 722
@@ -3923,7 +3924,7 @@ Babalık?
 
 897
 00:58:19,451 --> 00:58:21,023
-<i>¿Dónde está? (Nerede?)</i> 
+<i>¿Dónde está? (Nerede?)</i>
 
 898
 00:58:21,024 --> 00:58:22,959
@@ -5023,7 +5024,7 @@ Zamanı geldi, Shadow.
 
 1155
 01:16:20,203 --> 01:16:24,304
-Profesör, Maria gerçekten 
+Profesör, Maria gerçekten
 bunu ister miydi?
 
 1156
