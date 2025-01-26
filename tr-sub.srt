@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,000 --> 00:00:21,470
-Bu altyazı Yafes(yafesdot) tarafından yapılmıştır. 
+Bu altyazı Yafes(yafesdot) tarafından yapılmıştır.
 Son kontrol ve düzenlemeler için STHMZ'ye teşekkürler.
 
 2
@@ -79,7 +79,7 @@ Kaybedeceksin!
 
 19
 00:04:31,435 --> 00:04:33,601
-Ailenin şampiyonu tahtına 
+Ailenin Şampiyonu tahtına
 oturmak benim kaderim,
 
 20
@@ -963,7 +963,7 @@ Peki bu ne zaman beni durdurdu?
 
 217
 00:15:22,021 --> 00:15:24,416
-Şunu sormam lazım, bir kirpiden diğerine,
+Şunu sormam lazım, kirpice bir sohbet olsun,
 
 218
 00:15:24,417 --> 00:15:25,681
@@ -1978,7 +1978,7 @@ Kilidi açtım.
 
 448
 00:34:30,958 --> 00:34:34,027
-Her zamanki gibi dikkat çekmiyorsun,
+Her zamanki gibi yavansın,
 yumruk-beyinli.
 
 449
@@ -2264,7 +2264,7 @@ Robotnik soyu tükeniyor...
 
 513
 00:38:00,301 --> 00:38:02,102
-<i>avec moi.</i>
+<i>avec moi. (benimle)</i>
 
 514
 00:38:02,103 --> 00:38:04,204
@@ -2579,7 +2579,7 @@ neredeydin?
 
 586
 00:41:50,969 --> 00:41:57,172
-Son 50 yıldır çok gizli bir hapishaneye kapatılmıştım.
+Son 50 yıldır çok gizli bir hapishanede tıkılıydım.
 
 587
 00:41:57,173 --> 00:42:00,648
@@ -5170,8 +5170,8 @@ sen Maria değilsin.
 
 1190
 01:19:51,711 --> 01:19:55,713
-Onu kaybettiğim an,
-aile diye bir şeyim kalmadı!
+Onu kaybettiğimde,
+ailem diye bir şey kalmadı!
 
 1191
 01:19:57,321 --> 01:19:59,221
@@ -5871,302 +5871,310 @@ dünyadan uzaklaştıracağım.
 Bu doğru şeyi yapmak için son şansımız.
 
 1358
+01:34:49,950 --> 01:34:51,950
+Tanrı seninle olsun...
+
+1359
+01:34:51,950 --> 01:34:54,950
+kokuşmuş kirpi!
+
+1360
 01:34:56,021 --> 01:34:58,384
 <i>Çekirdek bütünlüğü korunamıyor.</i>
 
-1359
+1361
 01:35:07,560 --> 01:35:09,230
 Yakaladım seni, Sonic!
 
-1360
+1362
 01:35:42,529 --> 01:35:45,970
 <i>Reaktör dengeleyiciler
 başlatılıyor.</i>
 
-1361
+1363
 01:36:04,617 --> 01:36:07,452
 Ben Doktor Ivo Robotnik,
 
-1362
+1364
 01:36:07,453 --> 01:36:10,389
 bu son yayınımı
 
-1363
+1365
 01:36:10,390 --> 01:36:13,228
 benim için çok değerli
 olan yardımcıma adıyorum:
 
-1364
+1366
 01:36:13,791 --> 01:36:15,328
 <i>Ajan Stone.</i>
 
-1365
+1367
 01:36:15,329 --> 01:36:17,693
 Hayır, hayır. Doktor, lütfen durun!
 
-1366
+1368
 01:36:17,694 --> 01:36:20,169
 <i>Eğer dünyaya
 hükmedemiyorsam...</i>
 
-1367
+1369
 01:36:21,139 --> 01:36:23,072
 o zaman kurtarırım...
 
-1368
+1370
 01:36:23,073 --> 01:36:26,405
 beni düşünüp önemseyen tek kişi için.
 
-1369
+1371
 01:36:26,406 --> 01:36:28,506
 Bunu yapmanıza gerek yok,
 Doktor, lütfen!
 
-1370
+1372
 01:36:28,507 --> 01:36:32,181
 Stone, benim için basit bir dalkavuk değildin.
 
-1371
+1373
 01:36:35,021 --> 01:36:36,317
 Sen benim için...
 
-1372
+1374
 01:36:37,782 --> 01:36:39,320
 bir dostkavuktun.
 
-1373
+1375
 01:36:44,822 --> 01:36:48,428
 Avusturya keçi sütüyle
 yapılmış lattelerini özleyeceğim.
 
-1374
+1376
 01:36:50,333 --> 01:36:52,267
 Onları yapışına bayılıyorum!
 
-1375
+1377
 01:37:35,246 --> 01:37:39,182
 Sanırım şimdi
 denecek tek bir şey kaldı.
 
-1376
+1378
 01:37:43,958 --> 01:37:45,452
 Gerçekten çok sıkıcıydı.
 
-1377
+1379
 01:37:46,092 --> 01:37:47,619
 Hiçbir şey için teşekkürler.
 
-1378
+1380
 01:38:06,178 --> 01:38:07,375
 Sonic, şuna bak.
 
-1379
+1381
 01:38:17,552 --> 01:38:19,551
 Shadow ve Robotnik.
 
-1380
+1382
 01:38:19,552 --> 01:38:21,993
 herkesi kurtarmak için...
 
-1381
+1383
 01:38:21,994 --> 01:38:24,062
 kendilerini feda etti.
 
-1382
+1384
 01:38:24,757 --> 01:38:26,823
 Her zaman bir seçeneğin vardır.
 
-1383
+1385
 01:38:28,035 --> 01:38:30,892
 Çocuklar, öylece koşup gittiğim için üzgünüm.
 
-1384
+1386
 01:38:30,893 --> 01:38:32,598
 Sizi arkada bırakmamalıydım.
 
-1385
+1387
 01:38:34,371 --> 01:38:36,073
 Aslına bakarsanız...
 
-1386
+1388
 01:38:36,074 --> 01:38:38,835
 siz bir kirpinin isteyebileceği
 en iyi ekip arkadaşlarısınız.
 
-1387
+1389
 01:38:40,542 --> 01:38:42,508
 En iyi arkadaşlarsınız.
 
-1388
+1390
 01:38:42,509 --> 01:38:44,445
 Beni affedebilecek misiniz?
 
-1389
+1391
 01:38:48,550 --> 01:38:50,352
 Sonic Ekibi?
 
-1390
+1392
 01:38:54,391 --> 01:38:57,062
 Neden sadece "ekip" demiyoruz?
 
-1391
+1393
 01:39:05,303 --> 01:39:06,973
 Elveda, Doktor.
 
-1392
+1394
 01:39:23,453 --> 01:39:25,783
 Büyük final.
 Mmm!
 
-1393
+1395
 01:39:27,292 --> 01:39:29,885
 Ekip işi diye buna derim.
 
-1394
+1396
 01:39:29,886 --> 01:39:31,821
 Tamamdır! Hazır!
 
-1395
+1397
 01:39:34,858 --> 01:39:36,628
 Knuckles,
 nasıl yaparsın?
 
-1396
+1398
 01:39:36,629 --> 01:39:38,532
 Biraz daha hızlı olmanız lazım!
 
-1397
+1399
 01:39:39,436 --> 01:39:40,632
 Azıcık mola istiyorum.
 
-1398
+1400
 01:39:40,633 --> 01:39:42,139
 Hâlâ eski hızımda değilim.
 
-1399
+1401
 01:39:42,140 --> 01:39:44,108
 Donut Efendisi!
 Yay!
 
-1400
+1402
 01:39:45,770 --> 01:39:48,607
 Peki, Knuckles, biraz daha...
 Sevgiyi alıyorum.
 
-1401
+1403
 01:39:48,607 --> 01:39:50,148
 Ben de sevgi istiyorum
 
-1402
+1404
 01:39:50,148 --> 01:39:52,974
 Aww...
 Buraya gel, Ozzy.
 
-1403
+1405
 01:39:52,975 --> 01:39:54,910
 Tekrar birlikte olmak
 çok güzel.
 
-1404
+1406
 01:39:54,911 --> 01:39:56,879
 Her zamankinden daha güçlüyüz.
 
-1405
+1407
 01:39:56,880 --> 01:39:59,421
 Hiçbir şey yolumuzda duramaz.
 
-1406
+1408
 01:40:00,688 --> 01:40:04,591
 Tabii, kapanmamış bir hesabımız var.
 
-1407
+1409
 01:40:13,536 --> 01:40:16,701
 Ve en önde, kimseyi
 şaşırtmayacak şekilde,
 
-1408
+1410
 01:40:16,702 --> 01:40:18,109
 o Mavi Buğu!
 
-1409
+1411
 01:40:18,110 --> 01:40:20,001
 Sıkça taklit edildi,
 asla kopyalanamadı,
 
-1410
+1412
 01:40:20,002 --> 01:40:21,376
 bir ve de tek...
 
-1411
+1413
 01:40:22,312 --> 01:40:23,972
 Hadi yapalım şunu!
 
-1412
+1414
 01:40:23,973 --> 01:40:26,315
 Hadi!
 
-1413
+1415
 01:40:26,316 --> 01:40:29,484
 Tamamdır, çocuklar,
 ayak uydurmaya çalışın.
 
-1414
+1416
 01:42:25,833 --> 01:42:29,439
 Kirpi Sonic
 yine yeni yeniden Aile Şampiyonu!
 
-1415
+1417
 01:42:30,035 --> 01:42:31,144
 Tails?
 
-1416
+1418
 01:42:31,674 --> 01:42:33,212
 Knuckles?
 
-1417
+1419
 01:42:34,809 --> 01:42:37,810
 Tamam. Evet, bitiş çizgisini biraz fazla geçmişim.
 
-1418
+1420
 01:42:46,689 --> 01:42:49,756
 Peki,
 nasıl geri döneceğim?
 
-1419
+1421
 01:43:01,132 --> 01:43:02,339
 Uzman Tavsiyesi:
 
-1420
+1422
 01:43:02,340 --> 01:43:03,703
 Eğer evrendeki
 
-1421
+1423
 01:43:03,704 --> 01:43:05,937
 en hızlı şeye saldıracaksan...
 
-1422
+1424
 01:43:08,249 --> 01:43:09,875
 kaçırmasan iyi edersin.
 
-1423
+1425
 01:43:13,683 --> 01:43:16,452
 Umm... cosplay'ine
 kelimeler kifayetsiz,
 
-1424
+1426
 01:43:16,453 --> 01:43:18,289
 ama bazı detaylar çok yanlış olmuş.
 
-1425
+1427
 01:43:18,290 --> 01:43:21,293
 Yine de seni suçlayamam.
 Mükemmelliği taklit edemezsin.
 
-1426
+1428
 01:43:31,338 --> 01:43:33,371
 Güzel numaraymış.
 
-1427
+1429
 01:43:45,242 --> 01:43:47,176
 Ne? Sen de kimsin?
 
