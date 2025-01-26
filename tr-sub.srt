@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:21,470
-Bu altyazı Yafes(yafesdot) tarafından yapılmıştır.
+Bu altyazı Yafes(yafesdot) tarafından yapılmıştır. \NSon kontrol ve düzenlemeler için STHMZ'ye teşekkürler.
 
 2
 00:00:21,470 --> 00:00:37,000
@@ -78,8 +78,8 @@ Kaybedeceksin!
 
 19
 00:04:31,435 --> 00:04:33,601
-Ailemizin Şampiyonu tahtını 
-kazanmak benim kaderim,
+Bu ailenin şampiyonu olmak
+benim kaderimde var,
 
 20
 00:04:33,602 --> 00:04:35,702
@@ -138,7 +138,7 @@ sahip değillerdi.
 
 31
 00:04:55,888 --> 00:04:57,592
-Bu makul bir nokta.
+O konuda çok haklısın.
 Pişt, çocuklar bunu duydunuz mu?
 
 32
@@ -334,7 +334,7 @@ geldiğin gün
 
 75
 00:06:54,776 --> 00:06:56,546
-hepimizin hayatı sonsuza kadar değişti.
+hepimizin hayatı kökünden değişti.
 
 76
 00:06:56,547 --> 00:06:57,844
@@ -378,7 +378,7 @@ Yok artık. Bu...
 
 85
 00:07:24,401 --> 00:07:26,235
-Ne-? Dostum...
+Ne? [bıkkınca] Dostum...
 
 86
 00:07:26,236 --> 00:07:28,403
@@ -641,12 +641,12 @@ Bu ismi kim seçti?
 145
 00:10:52,783 --> 00:10:55,114
 Bayıldım!
-On üzerinden on, hiçbir ekleme yapmaya yok.
+On numara beş yıldız.
 
 146
 00:10:55,115 --> 00:10:57,578
 Tom ve Maddie,
-tatlıları buzluğa kaldırın
+tatlıları dolaba kaldırın
 
 147
 00:10:57,579 --> 00:11:01,418
@@ -667,7 +667,7 @@ hayatta doğru kararlar vermelisin!
 
 151
 00:11:28,984 --> 00:11:31,953
-Tokyo'ya zamanında varış yapacağız.
+Tokyo'ya tam zamanında varış yapacağız.
 
 152
 00:11:31,954 --> 00:11:34,252
@@ -962,7 +962,7 @@ Peki bu ne zaman beni durdurdu?
 
 217
 00:15:22,021 --> 00:15:24,416
-Şunu sormam lazım, bir kirpi olarak sana,
+Şunu sormam lazım, iki kirpi arasında,
 
 218
 00:15:24,417 --> 00:15:25,681
@@ -988,8 +988,8 @@ Sen konuştukça,
 
 223
 00:15:55,877 --> 00:15:57,747
-sana daha sert
-vurasım geliyor.
+sana vurasım
+daha da artıyor.
 
 224
 00:16:01,421 --> 00:16:02,818
@@ -1135,8 +1135,8 @@ Eminim sorularınız vardır.
 
 256
 00:18:05,248 --> 00:18:08,184
-Sadece kocaman, sinirli, 
-kırmızı ve siyah bir tane.
+Sadece bir sorumuz var
+kırmızı siyah bir soru.
 
 257
 00:18:08,185 --> 00:18:09,713
@@ -1336,7 +1336,7 @@ Etrafı sarın!
 
 300
 00:21:46,603 --> 00:21:48,063
-Medikal tahliye yolda.
+Tıbbi birimler yolda.
 
 301
 00:21:51,773 --> 00:21:53,311
@@ -1383,7 +1383,7 @@ Sen kim oluyorsun?
 
 311
 00:22:41,623 --> 00:22:44,086
-"iNaNAmıYoRUM, KeÇi sÜtLü aDaM!"
+"iNaNAmıYoRUM, KeÇi sÜtü aDaM!"
 
 312
 00:22:44,087 --> 00:22:46,286
@@ -1505,26 +1505,25 @@ Cidden mi?
 
 339
 00:24:35,264 --> 00:24:38,134
-Bir an insana benzeyen hayvanlarla
+Bir an insan kılıklı hayvanlı
 bir kabus görüyorum sandım.
 
 340
 00:24:38,135 --> 00:24:39,806
-Dünyada
+Sanki şu dünyada
 güvenebileceğim tek kişi
 
 341
 00:24:39,807 --> 00:24:41,544
-en kötü düşmanlarımın 
-hepsiyle birlikte ortaya çıktığında,
+en kötü düşmanlarımı evime sokmuş gibiydi,
 
 342
 00:24:41,545 --> 00:24:43,370
-bornoz giyiyor ve
+üstelik ben bornoz giyerken,
 
 343
 00:24:43,371 --> 00:24:45,812
-koca göbeğimde davul çalıyordum!
+hatta koca göbeğimi davul yapmışken!
 
 344
 00:24:45,813 --> 00:24:47,242
@@ -1968,7 +1967,7 @@ hesaplamak için ve
 
 446
 00:34:24,259 --> 00:34:26,051
-havalandırma mekanizmalarını
+havalandırma mekaniklerini
 tersine çevirmek için
 biraz zamana ihtiyacım var.
 
@@ -2488,7 +2487,7 @@ Euler özdeşliği.
 
 566
 00:40:49,710 --> 00:40:52,173
-e üssü i çarpı pi artı bir, sıfıra eşittir.
+e üssü i çarpı pi artı bir, eşittir sıfır.
 
 567
 00:40:52,174 --> 00:40:54,208
@@ -2679,7 +2678,7 @@ Yani her şeyin arkasında sen mi vardın?
 609
 00:43:06,539 --> 00:43:08,980
 Shadow'un kaçışı.
-Walters'a olan saldırı.
+Komutan Walters'a olan saldırı.
 
 610
 00:43:08,981 --> 00:43:10,344
@@ -2724,7 +2723,7 @@ GUN bizden her şeyimizi aldı.
 
 620
 00:43:28,396 --> 00:43:31,530
-Ve şimdi onlardan her şeylerini alacağız.
+Biz de onlardan her şeylerini alacağız.
 
 621
 00:43:31,531 --> 00:43:32,938
@@ -2803,7 +2802,7 @@ Ben varım.
 
 639
 00:44:25,455 --> 00:44:27,058
-Yüce yengeç!
+Hay yüce yengeç!
 
 640
 00:44:27,059 --> 00:44:28,731
@@ -2819,7 +2818,7 @@ fitilimi ateşlediğiniz için sağ olun.
 
 643
 00:44:32,768 --> 00:44:35,099
-Gerçekten benim için işe yaradı.
+Cidden işime geldi.
 
 644
 00:44:35,100 --> 00:44:38,136
@@ -2976,8 +2975,7 @@ Bunun için bir ömür bekledin.
 
 680
 00:46:57,077 --> 00:47:03,479
-Yeni bulduğun babalığınla 
-mükemmel bir günü nasıl geçirmek istersin?
+Yeni bulduğun babalığınla nasıl vakit geçirmek istersin?
 
 681
 00:47:57,337 --> 00:48:00,766
@@ -3117,7 +3115,7 @@ Başın çok büyük dertte.
 710
 00:49:50,153 --> 00:49:53,087
 Tamam, işte burası.
-Canavarın karnı.
+Hedefimizin tutulduğu yer.
 
 711
 00:49:53,088 --> 00:49:55,452
@@ -3297,7 +3295,7 @@ Tamam, tamam! Bir şey demedik!
 
 753
 00:51:38,919 --> 00:51:40,722
-Bana hiddetlene gerek yok, dostum.
+Bana hiddetlenmene gerek yok, dostum.
 
 754
 00:51:40,723 --> 00:51:44,022
@@ -3475,7 +3473,7 @@ Lütfen.
 794
 00:53:55,627 --> 00:53:56,924
 <i>Biliyor musun?
-Hadi devam edelim.</i>
+Boş ver.</i>
 
 795
 00:53:56,925 --> 00:53:58,926
@@ -3523,7 +3521,7 @@ Tom, merhaba ben, Rachel!
 805
 00:54:19,321 --> 00:54:21,322
 İnanabiliyor musun?
-İkimiz de Londra'yız.
+Londra'da denk geldik.
 
 806
 00:54:21,323 --> 00:54:23,324
@@ -3937,7 +3935,7 @@ Ailemden olmasaydın,
 
 900
 00:58:24,698 --> 00:58:26,699
-Seni bir sülün gibi deşebilirdim.
+Seni bir kumru gibi yapardım.
 
 901
 00:58:26,700 --> 00:58:29,802
@@ -3963,7 +3961,7 @@ Hayır.
 
 906
 00:58:43,312 --> 00:58:46,917
-Sadece...
+Sadece bana...
 Juan'a ait olabilir!
 
 907
@@ -3972,7 +3970,8 @@ Gabriella ikisini de öldürse ya.
 
 908
 00:58:49,481 --> 00:58:52,120
-Kız, kazanılacak bir ödül değil.
+Kıza elde edilecek
+bir ödülmüş gibi davranıyorlar.
 
 909
 00:58:52,121 --> 00:58:54,353
@@ -4143,7 +4142,7 @@ Hiya, hiya!
 949
 01:02:00,441 --> 01:02:02,816
 Kirpi Sonic
-bir bardak çay istiyor!
+bir bavvdak çay istiyor!
 
 950
 01:02:02,817 --> 01:02:04,511
@@ -4508,7 +4507,7 @@ Yaşıyor muyum?
 
 1034
 01:07:10,190 --> 01:07:13,094
-Anahtarın yanlış ellere geçmesine izin vermediğimde ölürüm.
+Ancak anahtarın yanlış ellere geçmesine izin vermediğimde ölürüm.
 
 1035
 01:07:13,921 --> 01:07:15,458
@@ -4635,7 +4634,7 @@ Aferin, Shadow.
 1064
 01:09:12,642 --> 01:09:15,513
 Peki o hâlde şu küçük
-bilim projen nerede?
+okul projen nerede?
 
 1065
 01:09:16,846 --> 01:09:20,848
@@ -5171,7 +5170,7 @@ sen Maria değilsin.
 1190
 01:19:51,711 --> 01:19:55,713
 Onu kaybettiğim an,
-ailem sonsuza kadar kayboldu!
+aile diye bir şeyim kalmadı!
 
 1191
 01:19:57,321 --> 01:19:59,221
@@ -5471,7 +5470,7 @@ Maria gitmiş olabilir,
 
 1262
 01:25:59,219 --> 01:26:01,320
-ama sevgin hep kalacak.
+ama sevginiz hep baki kalacak.
 
 1263
 01:26:15,930 --> 01:26:19,965
